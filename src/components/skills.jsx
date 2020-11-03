@@ -17,13 +17,11 @@ const Skills = (props) => {
         <div className={classes.container}>
             <h1 className={classes.aboutMeTitle}>About Me</h1>
             <p className={classes.bio}>Hi! I'm Daniel A software developer from the greater Tampa Bay Area.
-                I would describe myself as a motivated go getter. For as long as I can
-                Remember I've had a fasinaction with computers and technology and am now
-                persuing software development as my dream job. Im profecient in HTMl, CSS, 
-                JavaScript, React, Vue, Bootstrap, Material-ui, NodeJs, Express, Firebase, 
-                MongoDb and a few other things. I believe I would be a great asset to any 
-                company looking for a motivated self starter whos eager to learn. I look 
-                forward to hearing from you.
+             I would describe myself as a motivated go getter. For as long as I can Remember I've had a 
+             fascination with computers and technology and am now pursuing software development as my dream job. 
+             Im proficient in HTMl, CSS, JavaScript, React, Vue, Bootstrap, Material-ui, NodeJs, Express, Firebase,
+             MongoDb and a few other things. I believe I would be a great asset to any company looking for a 
+             motivated self-starter who is eager to learn. I look forward to hearing from you.
             </p>
             <h1 className={classes.title}>Skills</h1>
             <a href="/">
