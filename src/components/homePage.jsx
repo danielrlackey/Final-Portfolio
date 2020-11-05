@@ -45,7 +45,7 @@ const HomePage = (props) => {
             description: "full stack React application for tracking your finances and spending using Firebase and Nodejs for the backend",
             img: financepic,
             code: "https://github.com/danielrlackey/Finance-Manager-App",
-            demo: "",
+            demo: "https://daniels-finance-application.herokuapp.com/ ",
         }
     ]
 
